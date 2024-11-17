@@ -80,4 +80,4 @@ Penggunaan *GroupLayout* di dalam *JPanel* (jPanel1) memungkinkan posisi kompone
 Muhammad Ridhoni Ilham 2210010515
 
 ## Demo
-![Demo GIF]
+![Demo GIF](https://github.com/Ridhoni123/AplikasiPenghitungKata/blob/main/img/Recording%202024-11-17%20224134.gif)
